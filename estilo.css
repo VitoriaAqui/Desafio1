@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+#capa{
+    background: url(img/imagem.jpg);
+    color: bisque;
+    text-align:center;
+    height: 400px;
+    box-sizing: border-box;
+    background-size: cover;
+    padding-top: 130px;
+    text-shadow: rgb(24, 24, 139) -2px --2px;
+}
+h1{
+font-size: 40px;
+border: tomato;
+}
+a{
+    text-decoration: cadetblue;
+    color: honeydew;
+    text-shadow: none;
+    font-size: 20px;
+    border: oldlace solid 2px;
+    padding: 5px 20px;
+    border-radius: 10px;
+    
+}
+h2{
+
+}
